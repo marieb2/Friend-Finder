@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120107859319",
+    "firebase_url": "https://friendfinder-f1394.firebaseio.com",
+    "project_id": "friendfinder-f1394",
+    "storage_bucket": "friendfinder-f1394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120107859319:android:66a9bea749489c39",
+        "android_client_info": {
+          "package_name": "com.example.assignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120107859319-jh0jcc41e0n394mfhi4fg4bhhmo2dtmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignment3",
+            "certificate_hash": "af97b8a99c453dabf5770cf77a4b9e1bc42ff395"
+          }
+        },
+        {
+          "client_id": "120107859319-th0acas63dggntq9r75co6rpjtie94e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ_y2hM0YQtn9eaC1_nsScAohVC1ZLQiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120107859319-th0acas63dggntq9r75co6rpjtie94e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
